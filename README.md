@@ -1,13 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Alejo</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Personal projects**
+- 🔭 I’m currently working on **Julasoft**
 
-- 🌱 I’m currently learning **TypeScript & React Native**
+- 🌱 I’m currently learning **Node & PostgreSQL**
 
-- 👨‍💻 Some of my projects are available at [http://alejodiloreto.netlify.app/](http://alejodiloreto.netlify.app/)
-
-- 💬 Ask me about **React Js**
+- 💬 Ask me about **React Native**
 
 - 📫 How to reach me **alejodiloreto1@gmail.com**
 
